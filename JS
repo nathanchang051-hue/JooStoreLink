@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>JooStore09 - Official Links</title>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap" rel="stylesheet">
+    <style>
+        /* 50% Warna Utama (Background) */
+        body {
+            background-color: #F8F9FA;
+            font-family: 'Inter', sans-serif;
+            margin: 0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+            color: #1A202C;
+        }
+
+        .container {
+            width: 90%;
+            max-width: 400px;
+            text-align: center;
+            padding: 20px;
+        }
+
+        .profile-img {
+            width: 96px;
+            height: 96px;
+            border-radius: 50%;
+            background-color: #ddd; /* Ganti dengan logo JooStore09 */
+            margin-bottom: 15px;
+            border: 3px solid #1A202C;
+        }
+
+        h1 { font-size: 1.5rem; margin-bottom: 5px; font-weight: 700; }
+        p { font-size: 0.9rem; color: #718096; margin-bottom: 30px; }
+
+        .links-gap { display: grid; gap: 15px; }
+
+        /* 30% Warna Sekunder (Tombol Umum) */
+        .btn {
+            display: block;
+            padding: 16px;
+            text-decoration: none;
+            color: white;
+            background-color: #1A202C;
+            border-radius: 12px;
+            font-weight: 600;
+            transition: transform 0.2s, opacity 0.2s;
+            box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+        }
+
+        /* 20% Warna Aksen (Tombol Prioritas: ITEMKU) */
+        .btn-priority {
+            background-color: #FF8C00;
+            color: #ffffff;
+            transform: scale(1.05); /* Sedikit lebih besar agar menonjol */
+        }
+
+        .btn:active { transform: scale(0.98); opacity: 0.9; }
+
+        .badge {
+            display: block;
+            font-size: 0.7rem;
+            margin-top: 4px;
+            font-weight: 400;
+            opacity: 0.8;
+        }
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <img src="https://via.placeholder.com/150" alt="JooStore09 Logo" class="profile-img">
+    
+    <h1>JooStore09</h1>
+    <p>Top Up & Kebutuhan Digital Amanah</p>
+
+    <div class="links-gap">
+        <a href="LINK_ITEMKU_KAMU" class="btn btn-priority">
+            BELI DI ITEMKU
+            <span class="badge">Rating 5.0 - Transaksi Aman</span>
+        </a>
+
+        <a href="LINK_WHATSAPP_KAMU" class="btn">WHATSAPP</a>
+        <a href="LINK_TIKTOK_KAMU" class="btn">TIKTOK</a>
+    </div>
+</div>
+
+</body>
+</html>
