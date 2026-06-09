@@ -1,0 +1,1513 @@
+{
+  "games": [
+    {
+      "id": "blox-fruit",
+      "nama": "Blox Fruit",
+      "gambar": "image_21ab18.png",
+      "kategori": [
+        {
+          "id": "akun",
+          "nama": "Akun",
+          "produk": [
+            {
+              "id": "akun-lvl-1000",
+              "namaProduk": "Akun Blox Fruit Level 1000! Bonus Fruit in Inventory!",
+              "description": "Akun Blox Fruit Level 1000+ dengan random fruit di inventory dan password bisa diganti.",
+              "harga": 1500,
+              "spesifikasi": [
+                "Level 1000+",
+                "Random Fruit di Inventory",
+                "Bisa Ganti Password",
+                "Belum Verifikasi Email"
+              ],
+              "gambar": "image_21ab18.png",
+              "accounts": [],
+              "game": "Blox Fruit",
+              "kategori": "Akun",
+              "stok": 0
+            },
+            {
+              "id": "akun-lvl-1300",
+              "namaProduk": "Akun Blox Fruit Level 1300 | Bonus Legendary Sword !",
+              "description": "Akun level 1300 dengan bonus legendary sword , belly , aksesoris , buah.",
+              "harga": 4000,
+              "spesifikasi": [
+                "Level 1300",
+                "Bonus Fruit ( 0 - 10 )",
+                "Bonus Belly",
+                "Bonus Legendary Sword"
+              ],
+              "gambar": null,
+              "image": null,
+              "accounts": [],
+              "game": "Blox Fruit",
+              "kategori": "Akun",
+              "stok": 0
+            },
+            {
+              "id": "akun-lvl-1400",
+              "namaProduk": "Akun Level 1400 | Bonus Legendary Sword | Bonus Belly",
+              "description": "Akun level 1400+ dengan berbagai bonus random dan 100% aman",
+              "harga": 4500,
+              "spesifikasi": [
+                "Datpol",
+                "Akun Lvl 1400",
+                "Bonus Belly",
+                "Bonus Fruit ( 0 -10 )"
+              ],
+              "gambar": null,
+              "image": null,
+              "accounts": [],
+              "game": "Blox Fruit",
+              "kategori": "Akun",
+              "stok": 0
+            },
+            {
+              "id": "akun-lvl-1500",
+              "game": "Blox Fruit",
+              "kategori": "akun",
+              "namaProduk": "Akun Blox Fruit LEVEL 1500+ | Bonus LEGENDARY SWORD AND FRUIT",
+              "description": "Akun Blox Fruit dengan level 1500 untuk siap kamu mainkan !",
+              "harga": 5000,
+              "stok": 0,
+              "spesifikasi": [],
+              "accounts": [],
+              "gambar": null,
+              "image": null
+            },
+            {
+              "id": "akun-lvl-2000",
+              "game": "Blox Fruit",
+              "kategori": "akun",
+              "namaProduk": "Akun Blox Fruit LEVEL 2000+ | Bonus LEGENDARY SWORD and FRUIT",
+              "description": "Akun BF level 2000 cocok untuk akun tumbal atau akun utama !",
+              "harga": 5500,
+              "stok": 0,
+              "spesifikasi": [],
+              "accounts": [],
+              "gambar": null,
+              "image": null
+            },
+            {
+              "id": "akun-bf-kitsune",
+              "game": "blox fruit",
+              "kategori": "akun",
+              "namaProduk": "Blox fruit akun level 1000 - buah kitsune belum di makan",
+              "description": "Akun Blox Fruit dengan fruit KITSUNE di inventory ( Belum di makan )",
+              "harga": 45000,
+              "stok": 0,
+              "spesifikasi": [],
+              "accounts": [],
+              "gambar": null,
+              "image": null
+            },
+            {
+              "id": "akun-bf-buddha",
+              "game": "blox fruit",
+              "kategori": "akun",
+              "namaProduk": "Blox fruit level 1000 - Fruit buddha belum di makan",
+              "description": "Akun Blox Fruit dengan fruit KITSUNE di inventory ( Belum di makan ) serta berbagi bonus lainnya!",
+              "harga": 6000,
+              "stok": 0,
+              "spesifikasi": [],
+              "accounts": [],
+              "gambar": null,
+              "image": null
+            },
+            {
+              "id": "akun-bf-venom",
+              "game": "blox fruit",
+              "kategori": "akun",
+              "namaProduk": "Akun blox fruit level 1000 - Buah venom belum di makan",
+              "description": "Akun Blox Fruit dengan fruit VENOM di inventory ( Belum di makan ) serta berbagi bonus lainnya!",
+              "harga": 6000,
+              "stok": 0,
+              "spesifikasi": [],
+              "accounts": [],
+              "gambar": null,
+              "image": null
+            }
+          ],
+          "tipe": "akun",
+          "butuh_gambar": false
+        },
+        {
+          "id": "buah",
+          "nama": "Buah",
+          "produk": [
+            {
+              "id": "fruit-portal",
+              "game": "Blox Fruit",
+              "kategori": "Buah",
+              "namaProduk": "Portal",
+              "gambar": "portal.png",
+              "image": "portal.png",
+              "link_image": "portal.png",
+              "harga_physical": 4000,
+              "harga_permanent": 225000,
+              "stok": 10,
+              "spesifikasi": [
+                "100% Legal & Aman",
+                "Trade/Gift via In-game",
+                "Proses Cepat & Aman"
+              ],
+              "accounts": []
+            },
+            {
+              "id": "fruit-kitsune",
+              "game": "Blox Fruit",
+              "kategori": "Buah",
+              "namaProduk": "Kitsune",
+              "gambar": "kitsune.png",
+              "image": "kitsune.png",
+              "link_image": "kitsune.png",
+              "harga_physical": 40000,
+              "harga_permanent": 449000,
+              "stok": 998,
+              "spesifikasi": [
+                "100% Legal & Aman",
+                "Trade/Gift via In-game",
+                "Proses Cepat & Aman"
+              ],
+              "accounts": []
+            },
+            {
+              "id": "fruit-gas",
+              "game": "Blox Fruit",
+              "kategori": "Buah",
+              "namaProduk": "Gas",
+              "gambar": "Gas.jpg",
+              "image": "Gas.jpg",
+              "link_image": "Gas.jpg",
+              "harga_physical": 7000,
+              "harga_permanent": 285000,
+              "stok": 999,
+              "spesifikasi": [
+                "100% Legal & Aman",
+                "Trade/Gift via In-game",
+                "Proses Cepat & Aman"
+              ],
+              "accounts": []
+            },
+            {
+              "id": "fruit-t-rex",
+              "game": "Blox Fruit",
+              "kategori": "Buah",
+              "namaProduk": "T Rex",
+              "gambar": "t rex.jpg",
+              "image": "t rex.jpg",
+              "link_image": "t rex.jpg",
+              "harga_physical": 4000,
+              "harga_permanent": 265000,
+              "stok": 998,
+              "spesifikasi": [
+                "100% Legal & Aman",
+                "Trade/Gift via In-game",
+                "Proses Cepat & Aman"
+              ],
+              "accounts": []
+            },
+            {
+              "id": "fruit-dragon",
+              "game": "Blox Fruit",
+              "kategori": "Buah",
+              "namaProduk": "Dragon",
+              "gambar": "dragon.jpg",
+              "image": "dragon.jpg",
+              "link_image": "dragon.jpg",
+              "harga_physical": 200000,
+              "harga_permanent": 559000,
+              "stok": 998,
+              "spesifikasi": [
+                "100% Legal & Aman",
+                "Trade/Gift via In-game",
+                "Proses Cepat & Aman"
+              ],
+              "accounts": []
+            },
+            {
+              "id": "fruit-yeti",
+              "game": "Blox Fruit",
+              "kategori": "Buah",
+              "namaProduk": "Yeti",
+              "gambar": "yeti.jpg",
+              "image": "yeti.jpg",
+              "link_image": "yeti.jpg",
+              "harga_physical": 15000,
+              "harga_permanent": 339000,
+              "stok": 999,
+              "spesifikasi": [
+                "100% Legal & Aman",
+                "Trade/Gift via In-game",
+                "Proses Cepat & Aman"
+              ],
+              "accounts": []
+            },
+            {
+              "id": "fruit-spirit",
+              "game": "Blox Fruit",
+              "kategori": "Buah",
+              "namaProduk": "Spirit",
+              "gambar": "spirit.jpg",
+              "image": "spirit.jpg",
+              "link_image": "spirit.jpg",
+              "harga_physical": 4000,
+              "harga_permanent": 289000,
+              "stok": 999,
+              "spesifikasi": [
+                "100% Legal & Aman",
+                "Trade/Gift via In-game",
+                "Proses Cepat & Aman"
+              ],
+              "accounts": []
+            },
+            {
+              "id": "fruit-gravity",
+              "game": "Blox Fruit",
+              "kategori": "Buah",
+              "namaProduk": "Gravity",
+              "gambar": "gravity.jpg",
+              "image": "gravity.jpg",
+              "link_image": "gravity.jpg",
+              "harga_physical": 4000,
+              "harga_permanent": 259000,
+              "stok": 999,
+              "spesifikasi": [
+                "100% Legal & Aman",
+                "Trade/Gift via In-game",
+                "Proses Cepat & Aman"
+              ],
+              "accounts": []
+            },
+            {
+              "id": "fruit-control",
+              "game": "Blox Fruit",
+              "kategori": "Buah",
+              "namaProduk": "Control",
+              "gambar": "control.jpg",
+              "image": "control.jpg",
+              "link_image": "control.jpg",
+              "harga_physical": 12000,
+              "harga_permanent": 449000,
+              "stok": 999,
+              "spesifikasi": [
+                "100% Legal & Aman",
+                "Trade/Gift via In-game",
+                "Proses Cepat & Aman"
+              ],
+              "accounts": []
+            },
+            {
+              "id": "fruit-venom",
+              "game": "Blox Fruit",
+              "kategori": "Buah",
+              "namaProduk": "Venom",
+              "gambar": "venom.jpg",
+              "image": "venom.jpg",
+              "link_image": "venom.jpg",
+              "harga_physical": 5000,
+              "harga_permanent": 279000,
+              "stok": 999,
+              "spesifikasi": [
+                "100% Legal & Aman",
+                "Trade/Gift via In-game",
+                "Proses Cepat & Aman"
+              ],
+              "accounts": []
+            },
+            {
+              "id": "fruit-buddha",
+              "game": "Blox Fruit",
+              "kategori": "Buah",
+              "namaProduk": "Buddha",
+              "gambar": "buddha.jpg",
+              "image": "buddha.jpg",
+              "link_image": "buddha.jpg",
+              "harga_physical": 2000,
+              "harga_permanent": 185000,
+              "stok": 998,
+              "spesifikasi": [
+                "100% Legal & Aman",
+                "Trade/Gift via In-game",
+                "Proses Cepat & Aman"
+              ],
+              "accounts": []
+            },
+            {
+              "id": "fruit-dough",
+              "game": "Blox Fruit",
+              "kategori": "Buah",
+              "namaProduk": "Dough",
+              "gambar": "dough.jpg",
+              "image": "dough.jpg",
+              "link_image": "dough.jpg",
+              "harga_physical": 5000,
+              "harga_permanent": 269000,
+              "stok": 998,
+              "spesifikasi": [
+                "100% Legal & Aman",
+                "Trade/Gift via In-game",
+                "Proses Cepat & Aman"
+              ],
+              "accounts": []
+            },
+            {
+              "id": "fruit-leopard",
+              "game": "Blox Fruit",
+              "kategori": "Buah",
+              "namaProduk": "Leopard",
+              "gambar": "leopard.jpg",
+              "image": "leopard.jpg",
+              "link_image": "leopard.jpg",
+              "harga_physical": 10000,
+              "harga_permanent": 339000,
+              "stok": 999,
+              "spesifikasi": [
+                "100% Legal & Aman",
+                "Trade/Gift via In-game",
+                "Proses Cepat & Aman"
+              ],
+              "accounts": []
+            },
+            {
+              "id": "fruit-rocket",
+              "game": "Blox Fruit",
+              "kategori": "Buah",
+              "namaProduk": "Rocket",
+              "gambar": "roket.jpg",
+              "image": "roket.jpg",
+              "link_image": "roket.jpg",
+              "harga_physical": 1000,
+              "harga_permanent": 6000,
+              "stok": 999,
+              "spesifikasi": [
+                "100% Legal & Aman",
+                "Trade/Gift via In-game",
+                "Proses Cepat & Aman"
+              ],
+              "accounts": []
+            },
+            {
+              "id": "fruit-spin",
+              "game": "Blox Fruit",
+              "kategori": "Buah",
+              "namaProduk": "Spin",
+              "gambar": "spin.jpg",
+              "image": "spin.jpg",
+              "link_image": "spin.jpg",
+              "harga_physical": 1000,
+              "harga_permanent": 8500,
+              "stok": 999,
+              "spesifikasi": [
+                "100% Legal & Aman",
+                "Trade/Gift via In-game",
+                "Proses Cepat & Aman"
+              ],
+              "accounts": []
+            },
+            {
+              "id": "fruit-blade",
+              "game": "Blox Fruit",
+              "kategori": "Buah",
+              "namaProduk": "Blade",
+              "gambar": "blade.jpg",
+              "image": "blade.jpg",
+              "link_image": "blade.jpg",
+              "harga_physical": 1000,
+              "harga_permanent": 11000,
+              "stok": 999,
+              "spesifikasi": [
+                "100% Legal & Aman",
+                "Trade/Gift via In-game",
+                "Proses Cepat & Aman"
+              ],
+              "accounts": []
+            },
+            {
+              "id": "fruit-spring",
+              "game": "Blox Fruit",
+              "kategori": "Buah",
+              "namaProduk": "Spring",
+              "gambar": "spring.jpg",
+              "image": "spring.jpg",
+              "link_image": "spring.jpg",
+              "harga_physical": 1000,
+              "harga_permanent": 20000,
+              "stok": 999,
+              "spesifikasi": [
+                "100% Legal & Aman",
+                "Trade/Gift via In-game",
+                "Proses Cepat & Aman"
+              ],
+              "accounts": []
+            },
+            {
+              "id": "fruit-bomb",
+              "game": "Blox Fruit",
+              "kategori": "Buah",
+              "namaProduk": "Bomb",
+              "gambar": "bomb.jpg",
+              "image": "bomb.jpg",
+              "link_image": "bomb.jpg",
+              "harga_physical": 1000,
+              "harga_permanent": 25000,
+              "stok": 999,
+              "spesifikasi": [
+                "100% Legal & Aman",
+                "Trade/Gift via In-game",
+                "Proses Cepat & Aman"
+              ],
+              "accounts": []
+            },
+            {
+              "id": "fruit-smoke",
+              "game": "Blox Fruit",
+              "kategori": "Buah",
+              "namaProduk": "Smoke",
+              "gambar": "smoke.jpg",
+              "image": "smoke.jpg",
+              "link_image": "smoke.jpg",
+              "harga_physical": 1000,
+              "harga_permanent": 28000,
+              "stok": 999,
+              "spesifikasi": [
+                "100% Legal & Aman",
+                "Trade/Gift via In-game",
+                "Proses Cepat & Aman"
+              ],
+              "accounts": []
+            },
+            {
+              "id": "fruit-flame",
+              "game": "Blox Fruit",
+              "kategori": "Buah",
+              "namaProduk": "Flame",
+              "gambar": "flame.jpg",
+              "image": "flame.jpg",
+              "link_image": "flame.jpg",
+              "harga_physical": 1000,
+              "harga_permanent": 62000,
+              "stok": 999,
+              "spesifikasi": [
+                "100% Legal & Aman",
+                "Trade/Gift via In-game",
+                "Proses Cepat & Aman"
+              ],
+              "accounts": []
+            },
+            {
+              "id": "fruit-ice",
+              "game": "Blox Fruit",
+              "kategori": "Buah",
+              "namaProduk": "Ice",
+              "gambar": "ice.jpg",
+              "image": "ice.jpg",
+              "link_image": "ice.jpg",
+              "harga_physical": 1500,
+              "harga_permanent": 85000,
+              "stok": 999,
+              "spesifikasi": [
+                "100% Legal & Aman",
+                "Trade/Gift via In-game",
+                "Proses Cepat & Aman"
+              ],
+              "accounts": []
+            },
+            {
+              "id": "fruit-sand",
+              "game": "Blox Fruit",
+              "kategori": "Buah",
+              "namaProduk": "Sand",
+              "gambar": "sand.jpg",
+              "image": "sand.jpg",
+              "link_image": "sand.jpg",
+              "harga_physical": 2000,
+              "harga_permanent": 95000,
+              "stok": 999,
+              "spesifikasi": [
+                "100% Legal & Aman",
+                "Trade/Gift via In-game",
+                "Proses Cepat & Aman"
+              ],
+              "accounts": []
+            },
+            {
+              "id": "fruit-dark",
+              "game": "Blox Fruit",
+              "kategori": "Buah",
+              "namaProduk": "Dark",
+              "gambar": "dark.jpg",
+              "image": "dark.jpg",
+              "link_image": "dark.jpg",
+              "harga_physical": 2000,
+              "harga_permanent": 109000,
+              "stok": 999,
+              "spesifikasi": [
+                "100% Legal & Aman",
+                "Trade/Gift via In-game",
+                "Proses Cepat & Aman"
+              ],
+              "accounts": []
+            },
+            {
+              "id": "fruit-eagle",
+              "game": "Blox Fruit",
+              "kategori": "Buah",
+              "namaProduk": "Eagle",
+              "gambar": "eagle.jpg",
+              "image": "eagle.jpg",
+              "link_image": "eagle.jpg",
+              "harga_physical": 2000,
+              "harga_permanent": 110000,
+              "stok": 999,
+              "spesifikasi": [
+                "100% Legal & Aman",
+                "Trade/Gift via In-game",
+                "Proses Cepat & Aman"
+              ],
+              "accounts": []
+            },
+            {
+              "id": "fruit-diamond",
+              "game": "Blox Fruit",
+              "kategori": "Buah",
+              "namaProduk": "Diamond",
+              "gambar": "diamond.jpg",
+              "image": "diamond.jpg",
+              "link_image": "diamond.jpg",
+              "harga_physical": 2000,
+              "harga_permanent": 115000,
+              "stok": 999,
+              "spesifikasi": [
+                "100% Legal & Aman",
+                "Trade/Gift via In-game",
+                "Proses Cepat & Aman"
+              ],
+              "accounts": []
+            },
+            {
+              "id": "fruit-light",
+              "game": "Blox Fruit",
+              "kategori": "Buah",
+              "namaProduk": "Light",
+              "gambar": "light.jpg",
+              "image": "light.jpg",
+              "link_image": "light.jpg",
+              "harga_physical": 2500,
+              "harga_permanent": 125000,
+              "stok": 999,
+              "spesifikasi": [
+                "100% Legal & Aman",
+                "Trade/Gift via In-game",
+                "Proses Cepat & Aman"
+              ],
+              "accounts": []
+            },
+            {
+              "id": "fruit-rubber",
+              "game": "Blox Fruit",
+              "kategori": "Buah",
+              "namaProduk": "Rubber",
+              "gambar": "rubber.jpg",
+              "image": "rubber.jpg",
+              "link_image": "rubber.jpg",
+              "harga_physical": 2500,
+              "harga_permanent": 135000,
+              "stok": 999,
+              "spesifikasi": [
+                "100% Legal & Aman",
+                "Trade/Gift via In-game",
+                "Proses Cepat & Aman"
+              ],
+              "accounts": []
+            },
+            {
+              "id": "fruit-ghost",
+              "game": "Blox Fruit",
+              "kategori": "Buah",
+              "namaProduk": "Ghost",
+              "gambar": "ghost.jpg",
+              "image": "ghost.jpg",
+              "link_image": "ghost.jpg",
+              "harga_physical": 2500,
+              "harga_permanent": 145000,
+              "stok": 999,
+              "spesifikasi": [
+                "100% Legal & Aman",
+                "Trade/Gift via In-game",
+                "Proses Cepat & Aman"
+              ],
+              "accounts": []
+            },
+            {
+              "id": "fruit-magma",
+              "game": "Blox Fruit",
+              "kategori": "Buah",
+              "namaProduk": "Magma",
+              "gambar": "magma.jpg",
+              "image": "magma.jpg",
+              "link_image": "magma.jpg",
+              "harga_physical": 2500,
+              "harga_permanent": 149000,
+              "stok": 999,
+              "spesifikasi": [
+                "100% Legal & Aman",
+                "Trade/Gift via In-game",
+                "Proses Cepat & Aman"
+              ],
+              "accounts": []
+            },
+            {
+              "id": "fruit-quake",
+              "game": "Blox Fruit",
+              "kategori": "Buah",
+              "namaProduk": "Quake",
+              "gambar": "quake.jpg",
+              "image": "quake.jpg",
+              "link_image": "quake.jpg",
+              "harga_physical": 2500,
+              "harga_permanent": 169000,
+              "stok": 999,
+              "spesifikasi": [
+                "100% Legal & Aman",
+                "Trade/Gift via In-game",
+                "Proses Cepat & Aman"
+              ],
+              "accounts": []
+            },
+            {
+              "id": "fruit-love",
+              "game": "Blox Fruit",
+              "kategori": "Buah",
+              "namaProduk": "Love",
+              "gambar": "love.jpg",
+              "image": "love.jpg",
+              "link_image": "love.jpg",
+              "harga_physical": 3000,
+              "harga_permanent": 190000,
+              "stok": 999,
+              "spesifikasi": [
+                "100% Legal & Aman",
+                "Trade/Gift via In-game",
+                "Proses Cepat & Aman"
+              ],
+              "accounts": []
+            },
+            {
+              "id": "fruit-creation",
+              "game": "Blox Fruit",
+              "kategori": "Buah",
+              "namaProduk": "Creation",
+              "gambar": "creation.jpg",
+              "image": "creation.jpg",
+              "link_image": "creation.jpg",
+              "harga_physical": 3000,
+              "harga_permanent": 195000,
+              "stok": 999,
+              "spesifikasi": [
+                "100% Legal & Aman",
+                "Trade/Gift via In-game",
+                "Proses Cepat & Aman"
+              ],
+              "accounts": []
+            },
+            {
+              "id": "fruit-spider",
+              "game": "Blox Fruit",
+              "kategori": "Buah",
+              "namaProduk": "Spider",
+              "gambar": "spider.jpg",
+              "image": "spider.jpg",
+              "link_image": "spider.jpg",
+              "harga_physical": 3000,
+              "harga_permanent": 205000,
+              "stok": 999,
+              "spesifikasi": [
+                "100% Legal & Aman",
+                "Trade/Gift via In-game",
+                "Proses Cepat & Aman"
+              ],
+              "accounts": []
+            },
+            {
+              "id": "fruit-sound",
+              "game": "Blox Fruit",
+              "kategori": "Buah",
+              "namaProduk": "Sound",
+              "gambar": "sound.jpg",
+              "image": "sound.jpg",
+              "link_image": "sound.jpg",
+              "harga_physical": 3000,
+              "harga_permanent": 215000,
+              "stok": 999,
+              "spesifikasi": [
+                "100% Legal & Aman",
+                "Trade/Gift via In-game",
+                "Proses Cepat & Aman"
+              ],
+              "accounts": []
+            },
+            {
+              "id": "fruit-phoenix",
+              "game": "Blox Fruit",
+              "kategori": "Buah",
+              "namaProduk": "Phoenix",
+              "gambar": "phoenix.jpg",
+              "image": "phoenix.jpg",
+              "link_image": "phoenix.jpg",
+              "harga_physical": 3000,
+              "harga_permanent": 225000,
+              "stok": 999,
+              "spesifikasi": [
+                "100% Legal & Aman",
+                "Trade/Gift via In-game",
+                "Proses Cepat & Aman"
+              ],
+              "accounts": []
+            },
+            {
+              "id": "fruit-rumble",
+              "game": "Blox Fruit",
+              "kategori": "Buah",
+              "namaProduk": "Rumble",
+              "gambar": "rumble.jpg",
+              "image": "rumble.jpg",
+              "link_image": "rumble.jpg",
+              "harga_physical": 4000,
+              "harga_permanent": 235000,
+              "stok": 999,
+              "spesifikasi": [
+                "100% Legal & Aman",
+                "Trade/Gift via In-game",
+                "Proses Cepat & Aman"
+              ],
+              "accounts": []
+            },
+            {
+              "id": "fruit-pain",
+              "game": "Blox Fruit",
+              "kategori": "Buah",
+              "namaProduk": "Pain",
+              "gambar": "pain.jpg",
+              "image": "pain.jpg",
+              "link_image": "pain.jpg",
+              "harga_physical": 3000,
+              "harga_permanent": 245000,
+              "stok": 999,
+              "spesifikasi": [
+                "100% Legal & Aman",
+                "Trade/Gift via In-game",
+                "Proses Cepat & Aman"
+              ],
+              "accounts": []
+            },
+            {
+              "id": "fruit-blizzard",
+              "game": "Blox Fruit",
+              "kategori": "Buah",
+              "namaProduk": "Blizzard",
+              "gambar": "blizzard.jpg",
+              "image": "blizzard.jpg",
+              "link_image": "blizzard.jpg",
+              "harga_physical": 3000,
+              "harga_permanent": 255000,
+              "stok": 999,
+              "spesifikasi": [
+                "100% Legal & Aman",
+                "Trade/Gift via In-game",
+                "Proses Cepat & Aman"
+              ],
+              "accounts": []
+            },
+            {
+              "id": "fruit-mammoth",
+              "game": "Blox Fruit",
+              "kategori": "Buah",
+              "namaProduk": "Mammoth",
+              "gambar": "mammoth.jpg",
+              "image": "mammoth.jpg",
+              "link_image": "mammoth.jpg",
+              "harga_physical": 4000,
+              "harga_permanent": 265000,
+              "stok": 999,
+              "spesifikasi": [
+                "100% Legal & Aman",
+                "Trade/Gift via In-game",
+                "Proses Cepat & Aman"
+              ],
+              "accounts": []
+            },
+            {
+              "id": "fruit-shadow",
+              "game": "Blox Fruit",
+              "kategori": "Buah",
+              "namaProduk": "Shadow",
+              "gambar": "shadow.jpg",
+              "image": "shadow.jpg",
+              "link_image": "shadow.jpg",
+              "harga_physical": 5000,
+              "harga_permanent": 275000,
+              "stok": 999,
+              "spesifikasi": [
+                "100% Legal & Aman",
+                "Trade/Gift via In-game",
+                "Proses Cepat & Aman"
+              ],
+              "accounts": []
+            }
+          ],
+          "tipe": "buah",
+          "butuh_gambar": true
+        },
+        {
+          "id": "gamepass",
+          "nama": "Gamepass",
+          "produk": [
+            {
+              "id": "gamepas-storage",
+              "game": "Blox Fruit",
+              "kategori": "Gamepass",
+              "namaProduk": "+1 Storage",
+              "description": "Maksimalkan storage mu , agar dapat menyimpan lebih banyak !",
+              "harga": 45000,
+              "stok": 10,
+              "spesifikasi": [],
+              "accounts": [],
+              "gambar": "+1 storage.jpg",
+              "image": "+1 storage.jpg"
+            },
+            {
+              "id": "gamepas-x2-money",
+              "game": "Blox Fruit",
+              "kategori": "Gamepass",
+              "namaProduk": "X2 Money",
+              "description": "Dapatkan Beli (uang) dua kali lipat lebih banyak dari quest, bos, dan peti. Solusi grinding cepat kaya!",
+              "harga": 49900,
+              "stok": 10,
+              "spesifikasi": [],
+              "accounts": [],
+              "gambar": "x2 money.jpg",
+              "image": "x2 money.jpg"
+            },
+            {
+              "id": "gamepas-2x-mastery",
+              "game": "Blox fruit",
+              "kategori": "gamepass",
+              "namaProduk": "2x Mastery",
+              "description": "Dapatkan exp dua kali lipat untuk membuka semua skill buah, pedang, dan gaya bertarung jauh lebih cepat!",
+              "harga": 49900,
+              "stok": 10,
+              "spesifikasi": [],
+              "accounts": [],
+              "gambar": "2x mastery.jpg",
+              "image": "2x mastery.jpg"
+            },
+            {
+              "id": "gamepas-fruit-notifier",
+              "game": "blox fruit",
+              "kategori": "gamepass",
+              "namaProduk": "Fruit Notifier",
+              "description": "Dapatkan notifikasi dan pantau jarak pasti setiap ada buah yang spawn di server. Jangan sampai ketinggalan buah langka!",
+              "harga": 300000,
+              "stok": 10,
+              "spesifikasi": [],
+              "accounts": [],
+              "gambar": "fruit notifier.jpg",
+              "image": "fruit notifier.jpg"
+            },
+            {
+              "id": "gamepas-dark-blade",
+              "game": "blox fruit",
+              "kategori": "Gamepass",
+              "namaProduk": "Dark Blade",
+              "description": "Pedang premium ber-damage tinggi dengan jangkauan luas, senjata andalan terbaik untuk PvP dan grinding!",
+              "harga": 135000,
+              "stok": 10,
+              "spesifikasi": [],
+              "accounts": [],
+              "gambar": "dark blade.jpg",
+              "image": "dark blade.jpg"
+            },
+            {
+              "id": "gamepas-fast-boat",
+              "game": "blox fruit",
+              "kategori": "gamepass",
+              "namaProduk": "Fast Boats",
+              "description": "Buka akses kapal mewah berkecepatan tinggi untuk perjalanan antar pulau yang jauh lebih cepat dan hemat waktu!",
+              "harga": 38500,
+              "stok": 7,
+              "spesifikasi": [],
+              "accounts": [],
+              "gambar": "fast boat.jpg",
+              "image": "fast boat.jpg"
+            },
+            {
+              "id": "gamepas-2x-dropschance",
+              "game": "blox fruit",
+              "kategori": "gamepass",
+              "namaProduk": "2x Boss Drops",
+              "description": "Gandakan peluangmu mendapatkan item langka, pedang, dan aksesoris dari bos. Wajib punya untuk melengkapi koleksi gear dengan cepat!",
+              "harga": 38500,
+              "stok": 10,
+              "spesifikasi": [],
+              "accounts": [],
+              "gambar": "2x dropbos.jpg",
+              "image": "2x dropbos.jpg"
+            }
+          ],
+          "tipe": "gamepass",
+          "butuh_gambar": true
+        }
+      ]
+    },
+    {
+      "id": "roblox",
+      "nama": "Roblox",
+      "gambar": "images/robux.png",
+      "kategori": [
+        {
+          "id": "topup",
+          "nama": "Top Up",
+          "produk": [
+            {
+              "id": "robux-100",
+              "namaProduk": "100 Robux",
+              "harga": 11000,
+              "stok": 999,
+              "spesifikasi": [
+                "Proses Cepat & Aman",
+                "Kirim via Gamepass",
+                "100% Legal"
+              ],
+              "accounts": [],
+              "game": "Roblox",
+              "kategori": "Top Up",
+              "gambar": "images/robux.png",
+              "image": "images/robux.png"
+            },
+            {
+              "id": "robux-200",
+              "namaProduk": "200 Robux",
+              "harga": 22000,
+              "stok": 999,
+              "spesifikasi": [
+                "Proses Cepat & Aman",
+                "Kirim via Gamepass",
+                "100% Legal"
+              ],
+              "accounts": [],
+              "game": "Roblox",
+              "kategori": "Top Up",
+              "gambar": "images/robux.png",
+              "image": "images/robux.png"
+            },
+            {
+              "id": "robux-300",
+              "namaProduk": "300 Robux",
+              "harga": 33000,
+              "stok": 10,
+              "spesifikasi": [
+                "Proses Cepat & Aman",
+                "Kirim via Gamepass",
+                "100% Legal"
+              ],
+              "accounts": [],
+              "game": "Roblox",
+              "kategori": "Top Up",
+              "gambar": "images/robux.png",
+              "image": "images/robux.png"
+            },
+            {
+              "id": "robux-400",
+              "namaProduk": "400 Robux",
+              "harga": 44000,
+              "stok": 10,
+              "spesifikasi": [
+                "Proses Cepat & Aman",
+                "Kirim via Gamepass",
+                "100% Legal"
+              ],
+              "accounts": [],
+              "game": "Roblox",
+              "kategori": "Top Up",
+              "gambar": "images/robux.png",
+              "image": "images/robux.png"
+            },
+            {
+              "id": "robux-500",
+              "namaProduk": "500 Robux",
+              "harga": 55000,
+              "stok": 10,
+              "spesifikasi": [
+                "Proses Cepat & Aman",
+                "Kirim via Gamepass",
+                "100% Legal"
+              ],
+              "accounts": [],
+              "game": "Roblox",
+              "kategori": "Top Up",
+              "gambar": "images/robux.png",
+              "image": "images/robux.png"
+            },
+            {
+              "id": "robux-600",
+              "namaProduk": "600 Robux",
+              "harga": 66000,
+              "stok": 10,
+              "spesifikasi": [
+                "Proses Cepat & Aman",
+                "Kirim via Gamepass",
+                "100% Legal"
+              ],
+              "accounts": [],
+              "game": "Roblox",
+              "kategori": "Top Up",
+              "gambar": "images/robux.png",
+              "image": "images/robux.png"
+            },
+            {
+              "id": "robux-700",
+              "namaProduk": "700 Robux",
+              "harga": 77000,
+              "stok": 10,
+              "spesifikasi": [
+                "Proses Cepat & Aman",
+                "Kirim via Gamepass",
+                "100% Legal"
+              ],
+              "accounts": [],
+              "game": "Roblox",
+              "kategori": "Top Up",
+              "gambar": "images/robux.png",
+              "image": "images/robux.png"
+            },
+            {
+              "id": "robux-800",
+              "namaProduk": "800 Robux",
+              "harga": 88000,
+              "stok": 10,
+              "spesifikasi": [
+                "Proses Cepat & Aman",
+                "Kirim via Gamepass",
+                "100% Legal"
+              ],
+              "accounts": [],
+              "game": "Roblox",
+              "kategori": "Top Up",
+              "gambar": "images/robux.png",
+              "image": "images/robux.png"
+            },
+            {
+              "id": "robux-900",
+              "namaProduk": "900 Robux",
+              "harga": 99000,
+              "stok": 10,
+              "spesifikasi": [
+                "Proses Cepat & Aman",
+                "Kirim via Gamepass",
+                "100% Legal"
+              ],
+              "accounts": [],
+              "game": "Roblox",
+              "kategori": "Top Up",
+              "gambar": "images/robux.png",
+              "image": "images/robux.png"
+            },
+            {
+              "id": "robux-1000",
+              "namaProduk": "1000 Robux",
+              "harga": 110000,
+              "stok": 10,
+              "spesifikasi": [
+                "Proses Cepat & Aman",
+                "Kirim via Gamepass",
+                "100% Legal"
+              ],
+              "accounts": [],
+              "game": "Roblox",
+              "kategori": "Top Up",
+              "gambar": "images/robux.png",
+              "image": "images/robux.png"
+            },
+            {
+              "id": "robux-1100",
+              "namaProduk": "1100 Robux",
+              "harga": 121000,
+              "stok": 10,
+              "spesifikasi": [
+                "Proses Cepat & Aman",
+                "Kirim via Gamepass",
+                "100% Legal"
+              ],
+              "accounts": [],
+              "game": "Roblox",
+              "kategori": "Top Up",
+              "gambar": "images/robux.png",
+              "image": "images/robux.png"
+            },
+            {
+              "id": "robux-1200",
+              "namaProduk": "1200 Robux",
+              "harga": 132000,
+              "stok": 10,
+              "spesifikasi": [
+                "Proses Cepat & Aman",
+                "Kirim via Gamepass",
+                "100% Legal"
+              ],
+              "accounts": [],
+              "game": "Roblox",
+              "kategori": "Top Up",
+              "gambar": "images/robux.png",
+              "image": "images/robux.png"
+            },
+            {
+              "id": "robux-1300",
+              "namaProduk": "1300 Robux",
+              "harga": 143000,
+              "stok": 10,
+              "spesifikasi": [
+                "Proses Cepat & Aman",
+                "Kirim via Gamepass",
+                "100% Legal"
+              ],
+              "accounts": [],
+              "game": "Roblox",
+              "kategori": "Top Up",
+              "gambar": "images/robux.png",
+              "image": "images/robux.png"
+            },
+            {
+              "id": "robux-1400",
+              "namaProduk": "1400 Robux",
+              "harga": 154000,
+              "stok": 10,
+              "spesifikasi": [
+                "Proses Cepat & Aman",
+                "Kirim via Gamepass",
+                "100% Legal"
+              ],
+              "accounts": [],
+              "game": "Roblox",
+              "kategori": "Top Up",
+              "gambar": "images/robux.png",
+              "image": "images/robux.png"
+            },
+            {
+              "id": "robux-1500",
+              "namaProduk": "1500 Robux",
+              "harga": 165000,
+              "stok": 10,
+              "spesifikasi": [
+                "Proses Cepat & Aman",
+                "Kirim via Gamepass",
+                "100% Legal"
+              ],
+              "accounts": [],
+              "game": "Roblox",
+              "kategori": "Top Up",
+              "gambar": "images/robux.png",
+              "image": "images/robux.png"
+            },
+            {
+              "id": "robux-1600",
+              "namaProduk": "1600 Robux",
+              "harga": 176000,
+              "stok": 10,
+              "spesifikasi": [
+                "Proses Cepat & Aman",
+                "Kirim via Gamepass",
+                "100% Legal"
+              ],
+              "accounts": [],
+              "game": "Roblox",
+              "kategori": "Top Up",
+              "gambar": "images/robux.png",
+              "image": "images/robux.png"
+            },
+            {
+              "id": "robux-1700",
+              "namaProduk": "1700 Robux",
+              "harga": 187000,
+              "stok": 10,
+              "spesifikasi": [
+                "Proses Cepat & Aman",
+                "Kirim via Gamepass",
+                "100% Legal"
+              ],
+              "accounts": [],
+              "game": "Roblox",
+              "kategori": "Top Up",
+              "gambar": "images/robux.png",
+              "image": "images/robux.png"
+            },
+            {
+              "id": "robux-1800",
+              "namaProduk": "1800 Robux",
+              "harga": 198000,
+              "stok": 10,
+              "spesifikasi": [
+                "Proses Cepat & Aman",
+                "Kirim via Gamepass",
+                "100% Legal"
+              ],
+              "accounts": [],
+              "game": "Roblox",
+              "kategori": "Top Up",
+              "gambar": "images/robux.png",
+              "image": "images/robux.png"
+            },
+            {
+              "id": "robux-1900",
+              "namaProduk": "1900 Robux",
+              "harga": 209000,
+              "stok": 10,
+              "spesifikasi": [
+                "Proses Cepat & Aman",
+                "Kirim via Gamepass",
+                "100% Legal"
+              ],
+              "accounts": [],
+              "game": "Roblox",
+              "kategori": "Top Up",
+              "gambar": "images/robux.png",
+              "image": "images/robux.png"
+            },
+            {
+              "id": "robux-2000",
+              "namaProduk": "2000 Robux",
+              "harga": 220000,
+              "stok": 10,
+              "spesifikasi": [
+                "Proses Cepat & Aman",
+                "Kirim via Gamepass",
+                "100% Legal"
+              ],
+              "accounts": [],
+              "game": "Roblox",
+              "kategori": "Top Up",
+              "gambar": "images/robux.png",
+              "image": "images/robux.png"
+            }
+          ],
+          "tipe": "topup",
+          "butuh_gambar": true
+        }
+      ]
+    },
+    {
+      "id": "fish-it",
+      "nama": "Fish IT!",
+      "gambar": "fishit.jpg",
+      "kategori": [
+        {
+          "id": "gamepass",
+          "nama": "Gamepass",
+          "produk": [
+            {
+              "id": "boost-server-luck",
+              "game": "Fish IT!",
+              "kategori": "Gamepass",
+              "namaProduk": "BOOST Server Luck !",
+              "description": "Perbesar peluangmu dan teman-temanmu untuk memancing ikan langka, legendaris, dan tier tertinggi dengan lebih mudah",
+              "harga": 10890,
+              "stok": 10,
+              "spesifikasi": [
+                "100% Legal & Aman",
+                "Gift via In-game",
+                "Proses Cepat"
+              ],
+              "accounts": [],
+              "gambar": "boostsl.webp",
+              "image": "boostsl.webp"
+            },
+            {
+              "id": "VIP-LUCK-FISHIT",
+              "game": "Fish IT!",
+              "kategori": "Gamepass",
+              "namaProduk": "VIP",
+              "description": "",
+              "harga": 48950,
+              "stok": 10,
+              "spesifikasi": [
+                "100% Legal & Aman",
+                "Gift via In-game",
+                "Proses Cepat"
+              ],
+              "accounts": [],
+              "gambar": "VIP.webp",
+              "image": "VIP.webp"
+            },
+            {
+              "id": "mutasi-fishit-gp",
+              "game": "Fish IT!",
+              "kategori": "Gamepass",
+              "namaProduk": "+1 Mutasi",
+              "description": "",
+              "harga": 32450,
+              "stok": 10,
+              "spesifikasi": [
+                "100% Legal & Aman",
+                "Gift via In-game",
+                "Proses Cepat"
+              ],
+              "accounts": [],
+              "gambar": null,
+              "image": null
+            },
+            {
+              "id": "keberuntungan-lanjutan-gamepass",
+              "game": "Fish IT!",
+              "kategori": "Gamepass",
+              "namaProduk": "Keberuntungan Lanjutan",
+              "description": "",
+              "harga": 59950,
+              "stok": 10,
+              "spesifikasi": [
+                "100% Legal & Aman",
+                "Gift via In-game",
+                "Proses Cepat"
+              ],
+              "accounts": [],
+              "gambar": "keberuntunganlanjutan.webp",
+              "image": "keberuntunganlanjutan.webp"
+            },
+            {
+              "id": "keberuntungan-extra-gamepass",
+              "game": "Fish IT!",
+              "kategori": "Gamepass",
+              "namaProduk": "Keberuntungan Extra",
+              "description": "",
+              "harga": 26950,
+              "stok": 10,
+              "spesifikasi": [
+                "100% Legal & Aman",
+                "Gift via In-game",
+                "Proses Cepat"
+              ],
+              "accounts": [],
+              "gambar": "keberuntunganlanjutan.webp",
+              "image": "keberuntunganlanjutan.webp"
+            },
+            {
+              "id": "jual-koin-gamepass",
+              "game": "Fish IT!",
+              "kategori": "Gamepass",
+              "namaProduk": "Jual-dimana-saja",
+              "description": "Jual Di Mana Saja",
+              "harga": 34650,
+              "stok": 10,
+              "spesifikasi": [
+                "100% Legal & Aman",
+                "Gift via In-game",
+                "Proses Cepat"
+              ],
+              "accounts": [],
+              "gambar": "jual.webp",
+              "image": "jual.webp"
+            },
+            {
+              "id": "kapal-hiper",
+              "game": "Fish IT!",
+              "kategori": "Gamepass",
+              "namaProduk": "Paket Hyper ⭐",
+              "description": "",
+              "harga": 109890,
+              "stok": 10,
+              "spesifikasi": [
+                "100% Legal & Aman",
+                "Gift via In-game",
+                "Proses Cepat"
+              ],
+              "accounts": [],
+              "gambar": "perahuhiper.webp",
+              "image": "perahuhiper.webp"
+            }
+          ],
+          "tipe": "gamepass",
+          "butuh_gambar": true
+        },
+        {
+          "id": "joki",
+          "nama": "Joki",
+          "produk": [
+            {
+              "id": "fishit-joki-1jam",
+              "game": "Fish IT!",
+              "kategori": "Joki",
+              "namaProduk": "JOKI AFK 1 JAM !",
+              "description": "AFK JOKI SELAMA 1 JAM ANTI HACKBACK",
+              "harga": 1000,
+              "stok": 99,
+              "spesifikasi": [
+                "Proses Cepat & Aman",
+                "Koin & Item Hasil Joki Aman",
+                "Garansi Keamanan Akun"
+              ],
+              "accounts": [],
+              "gambar": null,
+              "image": null
+            }
+          ],
+          "tipe": "joki",
+          "butuh_gambar": false
+        }
+      ]
+    },
+    {
+      "id": "slime-rnng",
+      "nama": "Slime RNG",
+      "gambar": "slimerng.jpg",
+      "kategori": [
+        {
+          "id": "gamepass",
+          "nama": "Tipe Gamepass",
+          "tipe": "gamepass",
+          "butuh_gambar": true,
+          "produk": []
+        },
+        {
+          "id": "akun",
+          "nama": "Tipe Joki",
+          "tipe": "akun",
+          "butuh_gambar": false,
+          "produk": []
+        }
+      ]
+    },
+    {
+      "id": "ugphone",
+      "nama": "Ugphone",
+      "gambar": "ugphone.jpg",
+      "kategori": []
+    }
+  ],
+  "sections": [
+    {
+      "id": "topup",
+      "label": "Top Up",
+      "icon": "fa-wallet",
+      "game_ids": [
+        "roblox"
+      ]
+    },
+    {
+      "id": "kebutuhan-map",
+      "label": "Kebutuhan Map Roblox",
+      "icon": "fa-folder-open",
+      "game_ids": [
+        "blox-fruit",
+        "fish-it",
+        "slime-rnng"
+      ]
+    },
+    {
+      "id": "cloudphone",
+      "label": "CloudPhone",
+      "icon": "fa-mobile-alt",
+      "game_ids": [
+        "ugphone"
+      ]
+    }
+  ]
+}
